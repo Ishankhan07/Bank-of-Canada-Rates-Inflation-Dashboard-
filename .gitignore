@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+
+Data/cpi_raw/
+data/cpi_raw/
+data/cpi/
+*.zip
