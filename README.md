@@ -49,6 +49,7 @@ The project focuses on long-term economic trends and includes a detailed analysi
 
 ##  Project Structure
 
+```text
 
 Bank Of Canada Dashboard/
 │
