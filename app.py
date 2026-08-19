@@ -88,7 +88,7 @@ filtered_df = df[
 # KPI SECTION
 # =========================================================
 
-st.subheader("📌 Key Indicators")
+st.subheader(" Key Indicators")
 
 
 # Latest available row within selected date range
@@ -139,7 +139,7 @@ with col4:
 # POLICY RATE VS INFLATION
 # =========================================================
 
-st.subheader("📈 Policy Rate vs Inflation")
+st.subheader(" Policy Rate vs Inflation")
 
 
 fig = go.Figure()
@@ -199,7 +199,7 @@ st.plotly_chart(
 # RATE CYCLE ANALYSIS
 # =========================================================
 
-st.subheader("🔄 Interest Rate Cycle")
+st.subheader(" Interest Rate Cycle")
 
 
 cycle_counts = (
@@ -269,7 +269,7 @@ st.plotly_chart(
 # USD/CAD ANALYSIS
 # =========================================================
 
-st.subheader("💱 USD/CAD Exchange Rate")
+st.subheader(" USD/CAD Exchange Rate")
 
 
 fig_usd = px.line(
@@ -298,7 +298,7 @@ st.plotly_chart(
 # CORRELATION HEATMAP
 # =========================================================
 
-st.subheader("📊 Correlation Analysis")
+st.subheader("Correlation Analysis")
 
 
 correlation = filtered_df[
@@ -329,7 +329,7 @@ st.plotly_chart(
 # LAG ANALYSIS
 # =========================================================
 
-st.subheader("⏱️ Lag Analysis")
+st.subheader(" Lag Analysis")
 
 
 lags = [1, 3, 6, 12]
@@ -385,7 +385,7 @@ st.plotly_chart(
 # 2022–2023 HIKING CYCLE
 # =========================================================
 
-st.subheader("🎯 2022–2023 Rate Hiking Cycle")
+st.subheader(" 2022–2023 Rate Hiking Cycle")
 
 
 hiking_df = df[
@@ -436,7 +436,7 @@ st.plotly_chart(
 # KEY INSIGHTS
 # =========================================================
 
-st.subheader("💡 Key Insights")
+st.subheader(" Key Insights")
 
 
 # Peak inflation within selected range
