@@ -38,7 +38,7 @@ df = load_data()
 # TITLE
 # =========================================================
 
-st.title("🇨🇦 Bank of Canada Rates & Inflation Dashboard")
+st.title(" Bank of Canada Rates & Inflation Dashboard")
 
 st.markdown(
     "Interactive analysis of Canadian interest rates, "
