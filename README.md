@@ -98,7 +98,7 @@ Plotly Visualizations
         │
         ▼
 Streamlit Dashboard
-
+```
 
 How to Run the Project
 
@@ -141,3 +141,21 @@ Aligns and merges the economic datasets into a common monthly analytical dataset
 app.py
 
 Contains the final Streamlit dashboard and interactive Plotly visualizations.
+
+
+## 📊 Dashboard Screenshots
+
+### Main Dashboard
+<img src="screenshots/Dashboard.png" width="900">
+
+### Policy Rate vs Inflation
+<img src="screenshots/policy%20rate%20VS%20inflation.png" width="900">
+
+### Correlation Analysis
+<img src="screenshots/correlation%20analysis.png" width="900">
+
+### Interest Rate Cycle
+<img src="screenshots/intrest%20rate%20cycle.png" width="900">
+
+### USD/CAD Exchange Rate
+<img src="screenshots/usd-cad%20exchange%20rate.png" width="900">
