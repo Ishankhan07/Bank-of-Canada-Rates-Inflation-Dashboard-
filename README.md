@@ -1,5 +1,7 @@
 # Bank of Canada Rates & Inflation Dashboard
 
+LIVE LINK : https://ishankhan07-bank-of-canada-rates-inflation-dashboard-app-coct2a.streamlit.app/#key-indicators
+
 An interactive financial analytics dashboard for analyzing Canadian monetary policy, inflation, and USD/CAD exchange-rate movements using historical economic data.
 
 The project combines data collection through REST APIs, data cleaning and transformation with Python/Pandas, statistical analysis, interactive Plotly visualizations, and a Streamlit dashboard.
